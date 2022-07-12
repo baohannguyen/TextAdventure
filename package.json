@@ -1,0 +1,22 @@
+{
+  "name": "textadventure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./script.js",
+    "test": "node ./script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baohannguyen/TextAdventure.git"
+  },
+  "author": "Bao Han Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baohannguyen/TextAdventure/issues"
+  },
+  "homepage": "https://github.com/baohannguyen/TextAdventure#readme"
+}
